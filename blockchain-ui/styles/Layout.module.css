@@ -1,0 +1,8 @@
+.container {
+  min-height: 93vh;
+  padding: 4rem 0;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+}
